@@ -1,0 +1,19 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+-f https://data.pyg.org/whl/torch-2.2.0+cu118.html
+
+torch==2.2.0+cu118
+torch-geometric==2.6.1
+torch-scatter==2.1.2+pt22cu118
+numpy==1.26.3
+pandas==2.2.3
+PyYAML==6.0.2
+scikit-learn==1.6.1
+matplotlib==3.9.4
+seaborn==0.13.2
+tensorboard==2.18.0
+rdkit==2022.3.3
+mamba-ssm==2.2.4
+einops==0.8.1
+transformers==4.57.3
+ninja==1.13.0
+packaging==24.2
